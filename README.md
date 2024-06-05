@@ -1,6 +1,37 @@
-# 👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚁𝚘𝚖𝚎𝚘
+<!--
+<h2 align="center">
+  Welcome to Al Siam World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
 
-<p><em>𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science 𝚊𝚝 <a href="https://site.ufn.edu.br/">Universidade Franciscana - UFN</a>.<br>:round_pushpin: Santa Maria, Brazil.</em></p>
+<!--
+<p align="center">
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+ -->
+ 
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; 👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖
+                <b><a target="_blank"">𝚁𝚘𝚖𝚎𝚘!</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science 𝚊𝚝 <a href="https://site.ufn.edu.br/">Universidade Franciscana - UFN</a>.<br>:round_pushpin: Santa Maria, Brazil. 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ </a>
+ </a>
 
 ## <h3>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝙸𝙳𝙴𝚜:</h3>
 <p>
