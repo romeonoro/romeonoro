@@ -1,23 +1,17 @@
-
-<h3 align="center">
-         👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖
-                <b><a target="_blank"">𝚁𝚘𝚖𝚎𝚘!</a></b>
-        </samp>
+<h3 align="center" style="font-size: 36px;">
+    👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖
+    <b><a target="_blank" href="#">𝚁𝚘𝚖𝚎𝚘!</a></b>
 </h3>
 
-
-<p align="center"> 
-  <samp>
-    <br>
-    <samp>&gt; 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science 𝚊𝚝 <a href="https://site.ufn.edu.br/">Universidade Franciscana - UFN</a>.<br>:round_pushpin: Santa Maria, Brazil. 
-    <br>
-    <br>
-  </samp>
+<p align="center" style="font-size: 20px;"> 
+    <samp>
+        <br>
+        &gt; 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science 𝚊𝚝 <a href="https://site.ufn.edu.br/">Universidade Franciscana - UFN</a>.<br>:round_pushpin: Santa Maria, Brazil. 
+        <br>
+        <br>
+    </samp>
 </p>
 
-<p align="center">
- </a>
- </a>
 
 ## <h3>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝙸𝙳𝙴𝚜:</h3>
 <p>
