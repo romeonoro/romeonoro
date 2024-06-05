@@ -53,7 +53,8 @@
 
 ## <h3> 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h3>
 <p>
-	romeo.noro@ufn.edu.br 📧<br/><br/>
+	<a href="mailto:romeo.noro@ufn.edu.br">romeo.noro@ufn.edu.br</a>
+ 📧<br/><br/>
 	<a href="https://www.instagram.com/romeonoro/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/romeonoro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 	<a href="https://discordapp.com/users/romeonoro" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/romeonoro-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
 </p>
