@@ -1,6 +1,6 @@
 <h3 align="center" style="font-size: 36px;">
     👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖
-    <b><a target="_blank" href="#">𝚁𝚘𝚖𝚎𝚘!</a></b>
+    <b><a target="_blank" href="#">𝚁𝚘𝚖𝚎𝚘</a></b>!
 </h3>
 
 <p align="center" style="font-size: 20px;"> 
