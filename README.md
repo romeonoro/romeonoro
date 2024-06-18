@@ -29,7 +29,7 @@
 	<a href="https://replit.com/@romeonoro" target="_blank"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /></a>
 </p>
 
-## <h3> 📫 R𝚎𝚊𝚌𝚑 𝚖𝚎 𝚑𝚎𝚛𝚎:</h3>
+## <h3> 📫 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎 𝚑𝚎𝚛𝚎:</h3>
 <p>
 	<a href="mailto:romeo.noro@ufn.edu.br">romeo.noro@ufn.edu.br</a>
  📧<br/><br/>
